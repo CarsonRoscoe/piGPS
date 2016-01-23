@@ -15,6 +15,12 @@ After setting up GPSD, clone or download the files onto your *nix system.
 
 Open up terminal, navigate to the directory of the files and then type "make" into the terminal. This should invoke the Makefile which will compile the program.
 
+# How To Run
+
+Just like compiling, you must have GPSD daemon service setup to utilize the application.
+
+Once you have, clone/download this repository and navigate to the folder. In terminal, run the file "piGPS"
+
 # Design Document
 
 The design document for the program is the DesignDocument.pdf. That is where you will see state diagrams regarding how the program was planned to be structured, along with pseudocode. The end program did not perfectly match the design, however it is, for the most part, the same as the end structure.
