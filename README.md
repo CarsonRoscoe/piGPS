@@ -1,5 +1,5 @@
 # piGPS
-GPS application written in C++ for Raspberry Pi (*nix). Utilizes GPSD for all GPS functionality and the curses library for all UI work.
+GPS application written in C for Raspberry Pi (*nix). Utilizes GPSD for all GPS functionality and the curses library for all UI work.
 
 The intention of this application was to turn a Raspberry Pi into a GPS. A GPS dongle is required for the application to work, as well as having GPSD setup on your Raspberry Pi.
 
