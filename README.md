@@ -30,4 +30,4 @@ The design document for the program is the DesignDocument.pdf. That is where you
 The testing document for the program is the TestingDocument.pdf. This is where all the test cases were run with test summaries at the top and more detailed test breakdowns (with screenshots) in the pages proceeding the summary.
 
 # Collaboration
-This project was written in collaboration with Dhivya Manohar (https://github.com/DhivyaManohari)
+This project was written in collaboration with Dhivya Manohar (https://github.com/DhivManohar)
